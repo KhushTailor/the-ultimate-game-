@@ -1,0 +1,5 @@
+{
+  "gameMode": "mini_golf_multiplayer",
+  "maps": ["map_green_01", "map_green_02"],
+  "maxPlayers": 4
+}
